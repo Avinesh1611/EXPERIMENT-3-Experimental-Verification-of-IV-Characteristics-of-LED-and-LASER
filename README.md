@@ -79,6 +79,8 @@ LED's have a linear optical output with relation to the forward current over a c
 ## 📈 MODEL GRAPH
 
 <img width="960" height="425" alt="image" src="https://github.com/user-attachments/assets/dd8326f5-a5d1-45ef-8bf6-db6da51560b8" />
+Graph:
+<img width="706" height="888" alt="517823065-7fd7700d-157c-49a7-97d6-2c9c1bc78b20 (1)" src="https://github.com/user-attachments/assets/9e0d38ec-9e8f-435e-887e-0cedf5a86281" />
 
 
 ---
